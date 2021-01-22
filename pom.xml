@@ -9,8 +9,14 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>statisticker</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>http://www.statisticker.com</url>
+
+  <developers>
+    <developer>
+      <id>sri92sarvo</id>
+      <name>Sriharsha Sarvothamaiah</name>
+    </developer>
+  </developers>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
